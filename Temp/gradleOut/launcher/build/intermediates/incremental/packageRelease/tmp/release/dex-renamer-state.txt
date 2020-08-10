@@ -1,0 +1,4 @@
+#Mon Aug 10 13:22:45 EET 2020
+base.0=C\:\\Users\\furka\\Desktop\\creasaur_demo2\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

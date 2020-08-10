@@ -6,11 +6,6 @@ using UnityEngine.SceneManagement;
 public class PauseMenu : MonoBehaviour
 {
     public GameObject pauseMenu;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
     public void PauseButton()
     {
@@ -27,5 +22,6 @@ public class PauseMenu : MonoBehaviour
     public void HomeButton()
     {
         SceneManager.LoadScene(0);
+        Time.timeScale = 1f;
     }
 }
