@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -46,7 +46,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 334, y: 271}
   m_MaxSize: {x: 14004, y: 10021}
   vertical: 0
-  controlID: 59
+  controlID: 123
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -446,7 +446,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: a436ffffbe36ffff3a39ffff283bffffda3cffff8c3effff3e40ffff9241fffff042ffff4244ffff8a45ffffcc46ffffd646ffffe246ffff368cffff3a9fffff40a1ffff16e2ffff70fbfffff4ffffff2e51000062510000805100009a510000aa510000d25100008aa70000c0a70000faaf000018b0000054b0000068b00000
+      m_ExpandedIDs: 70fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
